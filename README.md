@@ -9,4 +9,4 @@ To replicate,
 - Now, pull:
   - git pull remote origin
 
-* file is from Zelle's intro book
+*File is from Zelle's intro book*
