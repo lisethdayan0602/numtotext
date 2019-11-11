@@ -8,3 +8,5 @@ To replicate,
 - Setup your remote origin (git remote add origin <address>)
 - Now, pull:
   - git pull remote origin
+
+* file is from Zelle's intro book
